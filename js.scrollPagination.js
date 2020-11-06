@@ -6,7 +6,7 @@
 			loadMsgId: '',
 			ajaxUrl: '',
 			loadingMsg: '<div style:"text-align:center;">Please Wait...!</div>',
-			loadingSpeed: 1
+			loadingSpeed: 10
 
 		}, options);
 
