@@ -54,6 +54,7 @@
 			loadMsgId	:	'#load-msg',
 			ajaxUrl		:	'ajax/listing-data.ajax.php',
 			loadingMsg	:	'<div class="alert alert-warning p-1 text-center"><i class="fa fa-fw fa-spin fa-spinner"></i>Please Wait...!</div>',
+			loadingSpeed	:	10
 		});
 	</script>
 </body>
